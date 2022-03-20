@@ -1,0 +1,9 @@
+.BTNstyle{
+    background-color:red;
+    color: whitesmoke;
+    padding: 10px;
+    border: 1px double blue;
+    border-radius: 10px;
+    /* margin: ; */
+
+}
